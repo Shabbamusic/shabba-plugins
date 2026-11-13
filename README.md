@@ -1,10 +1,24 @@
 # SHABBA Plugins
 
-A collection of free SHABBA VST3 plugins for macOS on Apple silicon (M1 or newer). The first public release, v1.0.0, includes 32 plugins.
+You know the sound you want. Now find the instrument or effect that gets you closer. SHABBA Plugins is a set of 32 free VST3 plugins for macOS on Apple silicon (M1 or newer).
 
 - [Browse the plugin catalog](https://plugins.shabbamusic.com)
 - [Download the latest release](https://github.com/Shabbamusic/shabba-plugins/releases/latest)
 - [SHABBA Music on YouTube](https://www.youtube.com/@ShabbaSounds)
+
+## Plugin catalog
+
+Pick one plugin, put it on a track, and change a control while the music plays. Small experiments are a good way to find a sound of your own. Browse the collection on the [SHABBA Plugins site](https://plugins.shabbamusic.com).
+
+![The SHABBA Plugins catalog, showing the collection and featured instruments](assets/screenshots/catalog-01.png)
+
+![More of the plugin catalog, including additional instruments and effects](assets/screenshots/catalog-02.png)
+
+![The final catalog section](assets/screenshots/catalog-03.png)
+
+## Your first experiment
+
+Choose an instrument or effect from the catalog, install it in a VST3-compatible host, and try changing one control. Compare the sound before and after so you can hear what the plugin adds.
 
 ## Install
 
